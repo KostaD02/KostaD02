@@ -1,5 +1,4 @@
  <h1>Welcome to my profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-
         - 🔭 I’m currently working on projects <br>
         - 💬 Ask me about coding,gaming and etc <br>
         - 🎮 I love playing games when i got free time <br>
