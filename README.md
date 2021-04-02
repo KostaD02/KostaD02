@@ -10,6 +10,6 @@
               • 🐍 Python  <br>
               • 🎓 C++ (Soon C#) <br>
               • 📱 Java <br>
-        - ⚜️ Favorite IDE : <a href="https://code.visualstudio.com/">🆚 code</a> && <a href="https://visualstudio.microsoft.com/">⚔️ Visual Studio</a> && <a href="https://sourceforge.net/projects/orwelldevcpp/">🔰Dev-C</a> <br>
+        - ⚜️ Favorite IDE : 🆚<a href="https://code.visualstudio.com/">code</a> && ⚔️<a href="https://visualstudio.microsoft.com/"> Visual Studio</a> && 🔰<a href="https://sourceforge.net/projects/orwelldevcpp/">Dev-C</a> <br>
        - 🎮 I love playing games when i got free time <br>
        - 🎯 Favorite video game : 🐺 Witcher 3  <br>
