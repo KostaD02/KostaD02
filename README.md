@@ -1,4 +1,5 @@
  <h1>Welcome to my profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<div width="50%">
         - 🔭 I’m currently working on projects <br>
         - 💬 Ask me about coding,gaming and etc <br>
         - 🎮 I love playing games when i got free time <br>
@@ -10,3 +11,5 @@
               • 🎓 C++ (Soon C#) <br>
               • 📱 Java <br>
         - ⚜️ Favorite IDE : <a href="https://code.visualstudio.com/">🆚 code</a> && <a href="https://visualstudio.microsoft.com/">⚔️ Visual Studio</a> && <a href="https://sourceforge.net/projects/orwelldevcpp/">🔰Dev-C</a> <br>
+</div>
+test
