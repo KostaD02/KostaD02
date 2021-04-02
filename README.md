@@ -1,6 +1,5 @@
  <h1 align="center">Welcome to my profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
  <a  href="https://www.facebook.com/Kosta202/"><img align="right" src="https://i.ibb.co/jGwSxR7/imageedit-0-6865109093.png" alt="imageedit-0-6865109093" width=300></a>
-        <br>
         - 🔭 I’m currently working on projects <br>
         - 💬 Ask me about coding,gaming and etc <br>
         - 🎮 I love playing games when i got free time <br>
