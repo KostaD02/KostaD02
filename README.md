@@ -5,7 +5,7 @@
         - 📫 How to reach me: Dm me on <a href="https://www.facebook.com/Kosta202/">Facebook</a> or <a href="https://www.instagram.com/kostad22/">Instagram</a> <br>
         - ✍️ Nicknames: ☠️V1RuS || 🤠Kosta <br>
         - 🌱 I’m currently learning : <br>
-              • 💻 Front-End : ⚛️ React && 🅰️ Angular  <br>
+              • 💻 Front-End : ⚛️ React  <br>
               • 🐍 Python  <br>
               • 🎓 C++ (Soon C#) <br>
               • 📱 Java <br>
