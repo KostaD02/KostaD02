@@ -12,5 +12,5 @@
         - ⚜️ Favorite IDE : 🆚<a href="https://code.visualstudio.com/">code</a> && ⚔️<a href="https://visualstudio.microsoft.com/"> Visual Studio</a> && 🔰<a href="https://sourceforge.net/projects/orwelldevcpp/">Dev-C</a> <br>
        - 🎮 I love playing games when i got free time <br>
        - 🎯 Favorite video game : 🐺 Witcher 3  <br>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kostad" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ge.linkedin.com/in/kostad?trk=profile-badge">Konstantine Datunishvili</a></div>
+
               
