@@ -3,7 +3,6 @@
         <br>
         <br>
         <br>
-        <br>
         - 🔭 I’m currently working on projects <br>
         - 💬 Ask me about coding,gaming and etc <br>
         - 📫 How to reach me: Dm me on <a href="https://www.facebook.com/Kosta202/">Facebook</a> or <a href="https://www.instagram.com/kostad22/">Instagram</a> <br>
