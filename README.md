@@ -1,5 +1,4 @@
  <h1 align="center">Welcome to my profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h1>
- <a  href="https://www.facebook.com/Kosta202/"><img align="right" src="https://i.ibb.co/L6H1TrF/logoo.png" alt="logoo" width=300></a> 
         <br>
         <br>
         - 🔭 I’m currently working on projects <br>
