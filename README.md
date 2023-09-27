@@ -2,5 +2,5 @@
 <br>
 <br>
         - 🔭 I’m currently working on projects <br>
-        - 📫 How to reach me: Dm me on <a href="https://www.linkedin.com/in/kostad/">Linkedin</a> or <a href="mailto:kdautinishvili@gmail.com">kdautinishvili@gmail.com</a><br>
+        - 📫 How to reach me: Dm me on <a href="https://www.linkedin.com/in/kostad/">Linkedin</a> or <a href="mailto:info@konstantinedatunishvili.com">info@konstantinedatunishvili.com</a><br>
 
